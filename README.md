@@ -1,4 +1,4 @@
-# DPLL
+# Davis–Putnam–Logemann–Loveland (DPLL) algorithm
 
 #### A simple implementation of the resolution-based DPLL SAT solving algorithm in Python. 
 
