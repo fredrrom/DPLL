@@ -1,6 +1,6 @@
 # DPLL
 
-#### A simple implementation of the DPLL SAT solving algorithm in Python. 
+#### A simple implementation of the resolution-based DPLL SAT solving algorithm in Python. 
 
 ### Syntax
 Propositional formulas are provided in conjunctive normal form. Conversion from logical to program syntax is done as follows:
@@ -16,7 +16,7 @@ For example:
 
 <img src="https://i.upmath.me/svg/(A%20%5Clor%20B)%20%5Cland%20(%5Cneg%20B%20%5Clor%20A)" alt="(A \lor B) \land (\neg B \lor A)" /> 
 
-can be written as 
+can be written as:
 
 ```
 [[1,2],[-2,1]]
