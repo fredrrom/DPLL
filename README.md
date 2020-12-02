@@ -12,7 +12,7 @@ Propositional formulas are provided in conjunctive normal form. Conversion from 
 | Clause   | List of integers         |
 | Formula  | List of list of integers |
 
-Ex. 
+For example: 
 
 <img src="https://i.upmath.me/svg/(A%20%5Clor%20B)%20%5Cland%20(%5Cneg%20B%20%5Clor%20A)" alt="(A \lor B) \land (\neg B \lor A)" /> 
 
