@@ -3,7 +3,7 @@
 #### A simple implementation of the resolution-based DPLL SAT solving algorithm in Python. 
 
 ### Syntax
-Propositional formulas are provided in conjunctive normal form. Conversion from logical to program syntax is done as follows:
+Propositional formulae are provided in conjunctive normal form. Conversion from logical to program syntax is done as follows:
 
 |  Logical | Program                  |
 |----------|--------------------------|
